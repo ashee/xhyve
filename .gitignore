@@ -1,0 +1,5 @@
+isos/
+**/*.img
+**/vmlinuz*
+**/boot/
+**/initrd*
